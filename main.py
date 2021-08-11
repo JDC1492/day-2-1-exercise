@@ -4,6 +4,11 @@ two_digit_number = input("Type a two digit number: ")
 
 ####################################
 #Write your code below this line 👇
+int_0 = int(two_digit_number[0])
+int_1 = int(two_digit_number[1])
+
+# print(type(new_int))
+print(int_0 + int_1)
 
 
 
